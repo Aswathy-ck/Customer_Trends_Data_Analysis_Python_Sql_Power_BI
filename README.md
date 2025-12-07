@@ -28,4 +28,3 @@ Use consumer shopping data to answer:
 - Payment & product preference trends  
 - Online vs Offline performance  
 
-## 🗂 Repository Structure
