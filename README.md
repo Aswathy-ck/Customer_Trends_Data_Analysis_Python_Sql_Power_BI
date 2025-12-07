@@ -26,5 +26,5 @@ Use consumer shopping data to answer:
 - Identification of loyal/high-value customers  
 - Impact of discounts, reviews, seasons on purchases  
 - Payment & product preference trends  
-- Online vs Offline performance  
+
 
